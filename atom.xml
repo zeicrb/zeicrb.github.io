@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zercrb.github.io/"/>
-  <updated>2016-10-26T21:14:00.000Z</updated>
+  <updated>2016-11-04T20:13:55.000Z</updated>
   <id>http://zercrb.github.io/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>失眠之魇常在</title>
+    <link href="http://zercrb.github.io/2016/11/05/%E5%A4%B1%E7%9C%A0%E4%B9%8B%E9%AD%87%E5%B8%B8%E5%9C%A8/"/>
+    <id>http://zercrb.github.io/2016/11/05/失眠之魇常在/</id>
+    <published>2016-11-04T19:59:46.000Z</published>
+    <updated>2016-11-04T20:13:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>长夜漫漫，失眠或许已成了习惯？</p>
+<p>近来身体特别虚弱，或许与长时间的昼夜颠倒有关。总是在数个小时的挣扎中放弃抵抗，下来吃早餐。</p>
+<p>感冒了。不敢用力思考什么东西，怕又惊走了浅浅的睡意，落了个难眠的下场。</p>
+<p>或许真的应该搬出去。在寝室这逼仄的地方，和不想干的一群勉强共处着。不同的作息，不同的兴趣，不同的志向，想来若是长此以往，身心难免俱疲。</p>
+<p>杂事似乎清净了。</p>
+<p>TIP 还没开始写，似乎实验都懒得做了。</p>
+<p>我还是太年轻，凡物看不通透，前些日子又抓起 Haskell 看了起来。dd 神牛搞 fp 是因为他想搞。为什么我执着于 ml 还想在 pl 插一腿呢？</p>
+<p>人的精力总是有限的。</p>
+<p>简式蕴大哲，就酱吧。</p>
+<p>$$ E = (\bar{f} - y)^2 + E_D (f - \bar{f})^2 + \epsilon^2 $$</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;长夜漫漫，失眠或许已成了习惯？&lt;/p&gt;
+&lt;p&gt;近来身体特别虚弱，或许与长时间的昼夜颠倒有关。总是在数个小时的挣扎中放弃抵抗，下来吃早餐。&lt;/p&gt;
+&lt;p&gt;感冒了。不敢用力思考什么东西，怕又惊走了浅浅的睡意，落了个难眠的下场。&lt;/p&gt;
+&lt;p&gt;或许真的应该搬出去。在寝室这逼仄的地
+    
+    </summary>
+    
+      <category term="想法" scheme="http://zercrb.github.io/categories/%E6%83%B3%E6%B3%95/"/>
+    
+      <category term="没用的" scheme="http://zercrb.github.io/categories/%E6%83%B3%E6%B3%95/%E6%B2%A1%E7%94%A8%E7%9A%84/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>好长时间没出来浪了</title>
